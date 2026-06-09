@@ -1,0 +1,133 @@
+# Compétences
+
+## ✅ Compétences Maîtrisées
+
+### 🔧 Systèmes Embarqués
+
+| Compétence                      | Niveau          |
+| ------------------------------- | --------------- |
+| Arduino                         | ██████████ 100% |
+| ESP32                           | ████████░░ 80%  |
+| STM32                           | ███████░░░ 70%  |
+| Raspberry Pi                    | ████████░░ 80%  |
+| Acquisition de données capteurs | █████████░ 90%  |
+| Interfaces UART / SPI / I2C     | ████████░░ 80%  |
+
+---
+
+### ⚙️ Automatisation Industrielle
+
+| Compétence            | Niveau         |
+| --------------------- | -------------- |
+| Siemens S7-1200       | ████████░░ 80% |
+| TIA Portal            | ████████░░ 80% |
+| Interfaces HMI        | ████████░░ 80% |
+| Réseaux PLC-HMI       | ███████░░░ 70% |
+| Diagnostic industriel | ████████░░ 80% |
+
+---
+
+### 💻 Programmation
+
+| Compétence   | Niveau         |
+| ------------ | -------------- |
+| C            | ████████░░ 80% |
+| C++          | ███████░░░ 70% |
+| Python       | ████████░░ 80% |
+| MATLAB       | ████████░░ 80% |
+| Git & GitHub | ██████░░░░ 60% |
+
+---
+
+### 🔌 Électronique
+
+| Compétence              | Niveau         |
+| ----------------------- | -------------- |
+| Électronique analogique | █████████░ 90% |
+| Électronique numérique  | █████████░ 90% |
+| Instrumentation         | ████████░░ 80% |
+| Soudure SMT / THT       | ████████░░ 80% |
+| Prototypage             | █████████░ 90% |
+
+---
+
+### 🧪 Microélectronique
+
+| Compétence                 | Niveau         |
+| -------------------------- | -------------- |
+| Technologies CMOS          | █████████░ 90% |
+| Fabrication de transistors | █████████░ 90% |
+| Procédés plasma            | ████████░░ 80% |
+| Travail en salle blanche   | ████████░░ 80% |
+
+---
+
+## 🚀 Compétences en Développement
+
+### 🤖 Edge AI & TinyML
+
+| Compétence                          | Niveau actuel  |
+| ----------------------------------- | -------------- |
+| TinyML                              | ██████░░░░ 60% |
+| TensorFlow Lite Micro               | █████░░░░░ 50% |
+| Edge Impulse                        | ██████░░░░ 60% |
+| Classification de données capteurs  | ██████░░░░ 60% |
+| Déploiement IA sur microcontrôleurs | █████░░░░░ 50% |
+
+Objectif : Développer des solutions complètes d'intelligence artificielle embarquée pour applications industrielles, IoT et robotiques.
+
+---
+
+### 👁️ Vision par Ordinateur Embarquée
+
+| Compétence              | Niveau actuel  |
+| ----------------------- | -------------- |
+| OpenCV                  | ████░░░░░░ 40% |
+| Détection d'objets      | ████░░░░░░ 40% |
+| Classification d'images | ████░░░░░░ 40% |
+
+Objectif : Déployer des modèles de vision embarquée sur Raspberry Pi, ESP32 et STM32.
+
+---
+
+### 🌐 IoT Industriel
+
+| Compétence       | Niveau actuel  |
+| ---------------- | -------------- |
+| MQTT             | █████░░░░░ 50% |
+| Architecture IoT | █████░░░░░ 50% |
+| Edge Computing   | █████░░░░░ 50% |
+
+Objectif : Concevoir des architectures IIoT intégrant Edge AI et automatisation industrielle.
+
+---
+
+## 🎯 Technologies Cibles 2026
+
+* STM32 Edge AI
+* TensorFlow Lite for Microcontrollers
+* Edge Impulse
+* ESP32 AI
+* Vision embarquée
+* Maintenance prédictive
+* Industrie 4.0
+* Industrial IoT (IIoT)
+* Robotique intelligente
+
+---
+
+## 🌍 Langues
+
+| Langue        | Niveau  |
+| ------------- | ------- |
+| 🇫🇷 Français | Courant |
+| 🇬🇧 Anglais  | Courant |
+| 🇮🇹 Italien  | Courant |
+
+---
+
+## 📈 Mon Orientation Professionnelle
+
+Mon objectif est de mettre à profit mon expérience en électronique, systèmes embarqués et automatisation industrielle pour développer des systèmes intelligents capables d'exploiter l'intelligence artificielle directement au plus près du terrain.
+
+### Microélectronique → Systèmes Embarqués → Edge AI → Industrie Intelligente
