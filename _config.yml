@@ -1,0 +1,33 @@
+title: "Portfolio IA Embarquée & Systèmes Embarqués"
+description: "Portfolio technique de Richard Molli Boulock - Systèmes embarqués, Edge AI, TinyML, IoT industriel et automatisation."
+theme: minima
+
+author:
+name: Richard Molli Boulock
+email: [richard.molli@gmail.com](mailto:richard.molli@gmail.com)
+
+linkedin_username: richard-boulock-6bb17926
+
+github_username: richardmolliboulock
+
+lang: fr
+
+show_downloads: false
+
+plugins:
+
+* jekyll-feed
+* jekyll-seo-tag
+
+markdown: kramdown
+
+kramdown:
+input: GFM
+
+header_pages:
+
+* index.md
+* projets.md
+* competences.md
+* parcours.md
+* contact.md
