@@ -130,4 +130,3 @@ Email : [richard.molli@gmail.com](mailto:richard.molli@gmail.com)
 ---
 
 ### Transformer l'électronique en systèmes intelligents.
-lligent systems."*
