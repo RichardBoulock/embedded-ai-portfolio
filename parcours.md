@@ -10,7 +10,7 @@ Mon parcours professionnel s'est construit autour d'une même passion : comprend
 
 Ma carrière débute dans le domaine des semi-conducteurs et des nanotechnologies.
 
-Après un Master européen en Nanotechnologies pour Systèmes Intégrés réalisé entre Grenoble, Lausanne et Turin, j'ai poursuivi des travaux de recherche en microélectronique au sein du Laboratoire des Technologies de la Microélectronique (LTM-CNRS) à Grenoble.
+Après un Master européen en Nanotechnologies pour Systèmes Intégrés réalisé entre Grenoble, Lausanne et Turin, j'ai poursuivi des travaux de recherche en microélectronique au sein du Laboratoire des Technologies de la Microélectronique (CNRS) à Grenoble.
 
 Ces travaux, menés en collaboration avec STMicroelectronics et le CEA Grenoble, portaient sur les procédés avancés de fabrication de transistors nanométriques pour les futures générations de circuits intégrés.
 
